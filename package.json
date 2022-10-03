@@ -1,0 +1,22 @@
+{
+  "name": "web-components-sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox for testing web-components",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/befreestudios-io/web-components-sandbox.git"
+  },
+  "author": "B.Podczerwinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/befreestudios-io/web-components-sandbox/issues"
+  },
+  "homepage": "https://github.com/befreestudios-io/web-components-sandbox#readme",
+  "dependencies": {
+    "lit": "^2.0.2"
+  }
+}
